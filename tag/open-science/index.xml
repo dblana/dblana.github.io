@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dimitra Blana</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dimitra Blana</description>
+    <title>Open science | Dimitra Blana</title>
+    <link>/tag/open-science/</link>
+      <atom:link href="/tag/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
-      <title>Dimitra Blana</title>
-      <link>/</link>
+      <title>Open science</title>
+      <link>/tag/open-science/</link>
     </image>
     
     <item>
@@ -25,19 +25,6 @@
 &lt;a href=&#34;https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt; I learned a huge amount about working openly, and developing projects that are useful, inviting and inclusive.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://cmasuki.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile Health Technology</title>
-      <link>/project/aparito/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/aparito/</guid>
-      <description>&lt;p&gt;Aparito is a digital health company, that uses mobile phone applications and wearables to monitor patients outside the hospital setting.&lt;/p&gt;
-&lt;p&gt;The study I worked on involves testing the technology on a cohort of 40 South African children with refractory epilepsy. There is little data on quality of life for South African children with epilepsy and their families, and limited resources for management of epilepsy. So there is a need to gather more data and develop strategies for personalised care.
-This study aims to investigate the feasibility and acceptability of wearable devices, and provide insight into the challenges of using this technology to monitor epilepsy in Africa.&lt;/p&gt;
-&lt;p&gt;I gave an update on this work at the 
-&lt;a href=&#34;https://www.biomedeng19.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioMedEng19 conference&lt;/a&gt; in London, 5-6 September 2019.&lt;/p&gt;
 </description>
     </item>
     

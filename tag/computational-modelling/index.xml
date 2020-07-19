@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational modelling | Dimitra Blana</title>
+    <link>/tag/computational-modelling/</link>
+      <atom:link href="/tag/computational-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational modelling</title>
+      <link>/tag/computational-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Tech for paralysis</title>
+      <link>/project/tech-for-paralysis/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tech-for-paralysis/</guid>
+      <description>&lt;p&gt;When someone is paralysed, most of their muscles still work, as the injury has affected their spinal cord, not their muscles. But the damage to the neck means that muscles are not receiving electrical signals from the brain, and this is why they are not producing movement. If we could electrically stimulate the muscles, we could restore movement.&lt;/p&gt;
+&lt;p&gt;In this project, we use a combination of electrical stimulation to elicit forces in paralysed muscles, and mobile arm supports to compensate for insufficient muscle force where necessary.&lt;/p&gt;
+&lt;p&gt;My role is to develop computational models specific to an individual&amp;rsquo;s functional limitations, to produce patient-specific interventions.&lt;/p&gt;
+&lt;p&gt;I am also leading the public engagement work, in collaboration with 
+&lt;a href=&#34;https://www.newvictheatre.org.uk/education-and-community/borderlines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Vic Borderlines&lt;/a&gt;, the outreach department of the New Vic theatre in Newcastle-under-Lyme.&lt;/p&gt;
+&lt;p&gt;Our project follows the principles of Open Science. 
+&lt;a href=&#34;https://github.com/dblana/TechForParalysis/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

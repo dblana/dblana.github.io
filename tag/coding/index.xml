@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding | Dimitra Blana</title>
+    <link>/tag/coding/</link>
+      <atom:link href="/tag/coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Coding</title>
+      <link>/tag/coding/</link>
+    </image>
+    
+    <item>
+      <title>CMAS Open Code</title>
+      <link>/project/cmas-open-code/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/cmas-open-code/</guid>
+      <description>&lt;p&gt;With support from 
+&lt;a href=&#34;https://cmasuki.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAS&lt;/a&gt; and 
+&lt;a href=&#34;https://www.mozillapulse.org/entry/1113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla&lt;/a&gt;, I am developing a free online platform for sharing code and resources among clinical movement analysis laboratories.&lt;/p&gt;
+&lt;p&gt;Why? Using code can save time and reduce errors by automating routine tasks, and produce new insights by enabling complex calculations. However, not everyone has the skills or time to learn how to develop their own code. So the aim of this project is to bring everyone interested in movement analysis together, to share code and the expertise that exists in the community.&lt;/p&gt;
+&lt;p&gt;By taking part in the &lt;a href=&#34;&#34;&gt;
+&lt;a href=&#34;https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt; I learned a huge amount about working openly, and developing projects that are useful, inviting and inclusive.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cmasuki.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
