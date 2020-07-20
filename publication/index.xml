@@ -5,12 +5,180 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Improving predictor selection for injury modelling methods in male footballers</title>
+      <link>/publication/philp-2020-improving/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/philp-2020-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based control of individual finger movements for prosthetic hand function</title>
+      <link>/publication/blana-2020-model/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2020-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the measurement and predictive validity of the functional movement screen</title>
+      <link>/publication/philp-2018-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/philp-2018-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The stabilizing function of superficial shoulder muscles changes between single-plane elevation and reaching tasks</title>
+      <link>/publication/ameln-2018-stabilizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ameln-2018-stabilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musculoskeletal modelling simulation with optimisation to predict the morphological parameters of the calf muscle</title>
+      <link>/publication/rymaszewski-2017-musculoskeletal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rymaszewski-2017-musculoskeletal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time simulation of hand motion for prosthesis control</title>
+      <link>/publication/blana-2017-real/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2017-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of using combined EMG and kinematic signals for prosthesis control: A simulation study using a virtual reality environment</title>
+      <link>/publication/blana-2016-feasibility/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2016-feasibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized proportional-derivative controller for the human upper extremity with gravity</title>
+      <link>/publication/jagodnik-2015-optimized/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jagodnik-2015-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glenohumeral stability during a hand-positioning task in previously injured shoulders</title>
+      <link>/publication/marchi-2014-glenohumeral/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/marchi-2014-glenohumeral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time simulation of three-dimensional shoulder girdle and arm dynamics</title>
+      <link>/publication/chadwick-2014-real/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/chadwick-2014-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection of muscle and nerve-cuff electrodes for neuroprostheses using customizable musculoskeletal model.</title>
+      <link>/publication/blana-2013-selection/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2013-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous neuronal ensemble control of simulated arm reaching by a human with tetraplegia</title>
+      <link>/publication/chadwick-2011-continuous/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/chadwick-2011-continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit methods for efficient musculoskeletal simulation and optimal control</title>
+      <link>/publication/van-2011-implicit/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/van-2011-implicit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined feedforward and feedback control of a redundant, nonlinear, dynamic musculoskeletal system</title>
+      <link>/publication/blana-2009-combined/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2009-combined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A musculoskeletal model of the upper extremity for use in the development of neuroprosthetic systems</title>
+      <link>/publication/blana-2008-musculoskeletal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2008-musculoskeletal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A real-time, 3-D musculoskeletal model for dynamic simulation of arm movements</title>
+      <link>/publication/chadwick-2008-real/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chadwick-2008-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musculoskeletal model-guided, customizable selection of shoulder and elbow muscles for a C5 SCI neuroprosthesis</title>
+      <link>/publication/hincapie-2008-musculoskeletal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/hincapie-2008-musculoskeletal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a neuroprosthesis for restoring arm and hand function via functional electrical stimulation following high cervical spinal cord injury</title>
+      <link>/publication/kirsch-2005-development/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kirsch-2005-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network controller for an upper extremity neuroprosthesis</title>
+      <link>/publication/hincapie-2005-neural/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/hincapie-2005-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive neural network controller for an upper extremity neuroprosthesis</title>
+      <link>/publication/hincapie-2004-adaptive/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/hincapie-2004-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of fetal heart rate tracings based on wavelet-transform and self-organizing-map neural networks</title>
+      <link>/publication/vasios-2001-classification/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/vasios-2001-classification/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KL Kilgore | Dimitra Blana</title>
+    <link>/author/kl-kilgore/</link>
+      <atom:link href="/author/kl-kilgore/index.xml" rel="self" type="application/rss+xml" />
+    <description>KL Kilgore</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>KL Kilgore</title>
+      <link>/author/kl-kilgore/</link>
+    </image>
+    
+    <item>
+      <title>Development of a neuroprosthesis for restoring arm and hand function via functional electrical stimulation following high cervical spinal cord injury</title>
+      <link>/publication/kirsch-2005-development/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kirsch-2005-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

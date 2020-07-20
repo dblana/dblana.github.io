@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan G Hincapie | Dimitra Blana</title>
+    <link>/author/juan-g-hincapie/</link>
+      <atom:link href="/author/juan-g-hincapie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan G Hincapie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Juan G Hincapie</title>
+      <link>/author/juan-g-hincapie/</link>
+    </image>
+    
+    <item>
+      <title>Selection of muscle and nerve-cuff electrodes for neuroprostheses using customizable musculoskeletal model.</title>
+      <link>/publication/blana-2013-selection/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2013-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A musculoskeletal model of the upper extremity for use in the development of neuroprosthetic systems</title>
+      <link>/publication/blana-2008-musculoskeletal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2008-musculoskeletal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

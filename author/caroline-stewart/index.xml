@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Stewart | Dimitra Blana</title>
+    <link>/author/caroline-stewart/</link>
+      <atom:link href="/author/caroline-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Stewart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Caroline Stewart</title>
+      <link>/author/caroline-stewart/</link>
+    </image>
+    
+    <item>
+      <title>Study of the measurement and predictive validity of the functional movement screen</title>
+      <link>/publication/philp-2018-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/philp-2018-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musculoskeletal modelling simulation with optimisation to predict the morphological parameters of the calf muscle</title>
+      <link>/publication/rymaszewski-2017-musculoskeletal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rymaszewski-2017-musculoskeletal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

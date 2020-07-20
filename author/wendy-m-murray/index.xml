@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wendy M Murray | Dimitra Blana</title>
+    <link>/author/wendy-m-murray/</link>
+      <atom:link href="/author/wendy-m-murray/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wendy M Murray</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Wendy M Murray</title>
+      <link>/author/wendy-m-murray/</link>
+    </image>
+    
+    <item>
+      <title>Model-based control of individual finger movements for prosthetic hand function</title>
+      <link>/publication/blana-2020-model/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2020-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time simulation of hand motion for prosthesis control</title>
+      <link>/publication/blana-2017-real/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/blana-2017-real/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

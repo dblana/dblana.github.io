@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fraser Philp | Dimitra Blana</title>
+    <link>/author/fraser-philp/</link>
+      <atom:link href="/author/fraser-philp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fraser Philp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Fraser Philp</title>
+      <link>/author/fraser-philp/</link>
+    </image>
+    
+    <item>
+      <title>Improving predictor selection for injury modelling methods in male footballers</title>
+      <link>/publication/philp-2020-improving/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/philp-2020-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the measurement and predictive validity of the functional movement screen</title>
+      <link>/publication/philp-2018-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/philp-2018-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

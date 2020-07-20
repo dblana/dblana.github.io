@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dieter Heinrich | Dimitra Blana</title>
+    <link>/author/dieter-heinrich/</link>
+      <atom:link href="/author/dieter-heinrich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dieter Heinrich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>Dieter Heinrich</title>
+      <link>/author/dieter-heinrich/</link>
+    </image>
+    
+    <item>
+      <title>Implicit methods for efficient musculoskeletal simulation and optimal control</title>
+      <link>/publication/van-2011-implicit/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/van-2011-implicit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

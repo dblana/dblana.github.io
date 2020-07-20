@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DM Taylor | Dimitra Blana</title>
+    <link>/author/dm-taylor/</link>
+      <atom:link href="/author/dm-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>DM Taylor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>DM Taylor</title>
+      <link>/author/dm-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Continuous neuronal ensemble control of simulated arm reaching by a human with tetraplegia</title>
+      <link>/publication/chadwick-2011-continuous/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/chadwick-2011-continuous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

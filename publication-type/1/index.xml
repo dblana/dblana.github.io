@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Dimitra Blana</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Development of a neuroprosthesis for restoring arm and hand function via functional electrical stimulation following high cervical spinal cord injury</title>
+      <link>/publication/kirsch-2005-development/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kirsch-2005-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network controller for an upper extremity neuroprosthesis</title>
+      <link>/publication/hincapie-2005-neural/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/hincapie-2005-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive neural network controller for an upper extremity neuroprosthesis</title>
+      <link>/publication/hincapie-2004-adaptive/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/hincapie-2004-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of fetal heart rate tracings based on wavelet-transform and self-organizing-map neural networks</title>
+      <link>/publication/vasios-2001-classification/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/vasios-2001-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
