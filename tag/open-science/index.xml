@@ -13,25 +13,24 @@
     </image>
     
     <item>
-      <title>CMAS Open Code</title>
-      <link>/project/cmas-open-code/</link>
+      <title>Tech for paralysis</title>
+      <link>/project/tech-for-paralysis/</link>
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cmas-open-code/</guid>
-      <description>&lt;p&gt;With support from 
-&lt;a href=&#34;https://cmasuki.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAS&lt;/a&gt; and 
-&lt;a href=&#34;https://www.mozillapulse.org/entry/1113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla&lt;/a&gt;, I am developing a free online platform for sharing code and resources among clinical movement analysis laboratories.&lt;/p&gt;
-&lt;p&gt;Why? Using code can save time and reduce errors by automating routine tasks, and produce new insights by enabling complex calculations. However, not everyone has the skills or time to learn how to develop their own code. So the aim of this project is to bring everyone interested in movement analysis together, to share code and the expertise that exists in the community.&lt;/p&gt;
-&lt;p&gt;By taking part in the &lt;a href=&#34;&#34;&gt;
-&lt;a href=&#34;https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt; I learned a huge amount about working openly, and developing projects that are useful, inviting and inclusive.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://cmasuki.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more.&lt;/a&gt;&lt;/p&gt;
+      <guid>/project/tech-for-paralysis/</guid>
+      <description>&lt;p&gt;When someone is paralysed, most of their muscles still work, as the injury has affected their spinal cord, not their muscles. But the damage to the neck means that muscles are not receiving electrical signals from the brain, and this is why they are not producing movement. If we could electrically stimulate the muscles, we could restore movement.&lt;/p&gt;
+&lt;p&gt;In this project, we use a combination of electrical stimulation to elicit forces in paralysed muscles, and mobile arm supports to compensate for insufficient muscle force where necessary.&lt;/p&gt;
+&lt;p&gt;My role is to develop computational models specific to an individual&amp;rsquo;s functional limitations, to produce patient-specific interventions.&lt;/p&gt;
+&lt;p&gt;I am also leading the public engagement work, in collaboration with 
+&lt;a href=&#34;https://www.newvictheatre.org.uk/education-and-community/borderlines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Vic Borderlines&lt;/a&gt;, the outreach department of the New Vic theatre in Newcastle-under-Lyme.&lt;/p&gt;
+&lt;p&gt;Our project follows the principles of Open Science. 
+&lt;a href=&#34;https://github.com/dblana/TechForParalysis/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more here.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hand prosthesis control using computer modelling</title>
       <link>/project/hand-prosthesis/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/hand-prosthesis/</guid>
       <description>&lt;p&gt;Even though prosthetic hands have the potential for complex movements, it is difficult to interpret the user&amp;rsquo;s desired action. Here we used a computer model of the hand to translate muscle activity from the residual limb into prosthetic hand movement. I described this work in a 
 &lt;a href=&#34;https://medium.com/the-quest-for-a-life-like-prosthetic-hand/tagged/science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;series of blog posts&lt;/a&gt;.&lt;/p&gt;
@@ -46,7 +45,7 @@
     <item>
       <title>Soapbox Science Stoke-on-Trent</title>
       <link>/project/soapbox-science-sot/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/project/soapbox-science-sot/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://soapboxscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soapbox Science&lt;/a&gt; involves female scientists standing on soapboxes in busy city streets, talking with passers-by about their research.&lt;/p&gt;
@@ -56,17 +55,18 @@
     </item>
     
     <item>
-      <title>Tech for paralysis</title>
-      <link>/project/tech-for-paralysis/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/tech-for-paralysis/</guid>
-      <description>&lt;p&gt;When someone is paralysed, most of their muscles still work, as the injury has affected their spinal cord, not their muscles. But the damage to the neck means that muscles are not receiving electrical signals from the brain, and this is why they are not producing movement. If we could electrically stimulate the muscles, we could restore movement.&lt;/p&gt;
-&lt;p&gt;In this project, we use a combination of electrical stimulation to elicit forces in paralysed muscles, and mobile arm supports to compensate for insufficient muscle force where necessary.&lt;/p&gt;
-&lt;p&gt;My role is to develop computational models specific to an individual&amp;rsquo;s functional limitations, to produce patient-specific interventions.&lt;/p&gt;
-&lt;p&gt;I am also leading the public engagement work, in collaboration with 
-&lt;a href=&#34;https://www.newvictheatre.org.uk/education-and-community/borderlines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Vic Borderlines&lt;/a&gt;, the outreach department of the New Vic theatre in Newcastle-under-Lyme.&lt;/p&gt;
-&lt;p&gt;Our project follows the principles of Open Science. 
-&lt;a href=&#34;https://github.com/dblana/TechForParalysis/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more here.&lt;/a&gt;&lt;/p&gt;
+      <title>CMAS Open Code</title>
+      <link>/project/cmas-open-code/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cmas-open-code/</guid>
+      <description>&lt;p&gt;With support from 
+&lt;a href=&#34;https://cmasuki.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAS&lt;/a&gt; and 
+&lt;a href=&#34;https://www.mozillapulse.org/entry/1113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla&lt;/a&gt;, I am developing a free online platform for sharing code and resources among clinical movement analysis laboratories.&lt;/p&gt;
+&lt;p&gt;Why? Using code can save time and reduce errors by automating routine tasks, and produce new insights by enabling complex calculations. However, not everyone has the skills or time to learn how to develop their own code. So the aim of this project is to bring everyone interested in movement analysis together, to share code and the expertise that exists in the community.&lt;/p&gt;
+&lt;p&gt;By taking part in the &lt;a href=&#34;&#34;&gt;
+&lt;a href=&#34;https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt; I learned a huge amount about working openly, and developing projects that are useful, inviting and inclusive.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cmasuki.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

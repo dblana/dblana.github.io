@@ -5,7 +5,7 @@
     <link>/tag/coding/</link>
       <atom:link href="/tag/coding/index.xml" rel="self" type="application/rss+xml" />
     <description>Coding</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu96616c2bd1d1d8fe9a4752e840b0babf_904_512x512_fill_lanczos_center_2.png</url>
       <title>Coding</title>
@@ -15,7 +15,7 @@
     <item>
       <title>CMAS Open Code</title>
       <link>/project/cmas-open-code/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/cmas-open-code/</guid>
       <description>&lt;p&gt;With support from 
 &lt;a href=&#34;https://cmasuki.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAS&lt;/a&gt; and 
@@ -31,7 +31,7 @@
     <item>
       <title>Make Keele</title>
       <link>/project/make-keele/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/project/make-keele/</guid>
       <description>&lt;p&gt;While I was working at Keele University, I set up a makerspace for the local community called 
 &lt;a href=&#34;https://www.keele.ac.uk/make/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make Keele&lt;/a&gt;. Its aim was to get people of all ages and backgrounds tinkering with technology, and give them the opportunity to meet, learn from each other and get creative. Through this project I met the team behind 

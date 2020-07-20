@@ -13,9 +13,51 @@
     </image>
     
     <item>
+      <title>Tech for paralysis</title>
+      <link>/project/tech-for-paralysis/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tech-for-paralysis/</guid>
+      <description>&lt;p&gt;When someone is paralysed, most of their muscles still work, as the injury has affected their spinal cord, not their muscles. But the damage to the neck means that muscles are not receiving electrical signals from the brain, and this is why they are not producing movement. If we could electrically stimulate the muscles, we could restore movement.&lt;/p&gt;
+&lt;p&gt;In this project, we use a combination of electrical stimulation to elicit forces in paralysed muscles, and mobile arm supports to compensate for insufficient muscle force where necessary.&lt;/p&gt;
+&lt;p&gt;My role is to develop computational models specific to an individual&amp;rsquo;s functional limitations, to produce patient-specific interventions.&lt;/p&gt;
+&lt;p&gt;I am also leading the public engagement work, in collaboration with 
+&lt;a href=&#34;https://www.newvictheatre.org.uk/education-and-community/borderlines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Vic Borderlines&lt;/a&gt;, the outreach department of the New Vic theatre in Newcastle-under-Lyme.&lt;/p&gt;
+&lt;p&gt;Our project follows the principles of Open Science. 
+&lt;a href=&#34;https://github.com/dblana/TechForParalysis/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hand prosthesis control using computer modelling</title>
+      <link>/project/hand-prosthesis/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/hand-prosthesis/</guid>
+      <description>&lt;p&gt;Even though prosthetic hands have the potential for complex movements, it is difficult to interpret the user&amp;rsquo;s desired action. Here we used a computer model of the hand to translate muscle activity from the residual limb into prosthetic hand movement. I described this work in a 
+&lt;a href=&#34;https://medium.com/the-quest-for-a-life-like-prosthetic-hand/tagged/science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;series of blog posts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/629246v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the paper.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In 2018, I led the development of an exhibit about prosthetic hands at the &lt;a href=&#34;&#34;&gt;
+&lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/progressive-prosthetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Society Summer Science Exhibition&lt;/a&gt;. It was a unique experience, that involved designing hands-on activities for people of all ages, and managing a large group of volunteers. The exhibition had more than 11000 visitors! I documented the preparation for the exhibit on a blog: 
+&lt;a href=&#34;https://medium.com/the-quest-for-a-life-like-prosthetic-hand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The quest for a life-like prosthetic hand&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soapbox Science Stoke-on-Trent</title>
+      <link>/project/soapbox-science-sot/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/soapbox-science-sot/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://soapboxscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soapbox Science&lt;/a&gt; involves female scientists standing on soapboxes in busy city streets, talking with passers-by about their research.&lt;/p&gt;
+&lt;p&gt;I think it is a brilliant outreach platform, for two reasons. First, instead of inviting people to a dedicated science event, it takes science to the streets, so it reaches people who might not consider attending a science event. And second, by focusing on female scientists, is raises the visibility of women in STEM, and hopefully encourages more girls to study science and engineering.&lt;/p&gt;
+&lt;p&gt;I set up the Stoke-on-Trent branch of Soapbox Science, and on Saturday July 6th 2019, we hosted our first ever Soapbox Science event in the centre of Stoke-on-Trent. It was a great opportunity to learn about scientific research done locally, straight from the scientists themselves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CMAS Open Code</title>
       <link>/project/cmas-open-code/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/cmas-open-code/</guid>
       <description>&lt;p&gt;With support from 
 &lt;a href=&#34;https://cmasuki.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMAS&lt;/a&gt; and 
@@ -29,37 +71,9 @@
     </item>
     
     <item>
-      <title>Hand prosthesis control using computer modelling</title>
-      <link>/project/hand-prosthesis/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/hand-prosthesis/</guid>
-      <description>&lt;p&gt;Even though prosthetic hands have the potential for complex movements, it is difficult to interpret the user&amp;rsquo;s desired action. Here we used a computer model of the hand to translate muscle activity from the residual limb into prosthetic hand movement. I described this work in a 
-&lt;a href=&#34;https://medium.com/the-quest-for-a-life-like-prosthetic-hand/tagged/science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;series of blog posts&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/629246v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the paper.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In 2018, I led the development of an exhibit about prosthetic hands at the &lt;a href=&#34;&#34;&gt;
-&lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/progressive-prosthetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Society Summer Science Exhibition&lt;/a&gt;. It was a unique experience, that involved designing hands-on activities for people of all ages, and managing a large group of volunteers. The exhibition had more than 11000 visitors! I documented the preparation for the exhibit on a blog: 
-&lt;a href=&#34;https://medium.com/the-quest-for-a-life-like-prosthetic-hand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The quest for a life-like prosthetic hand&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Make Keele</title>
-      <link>/project/make-keele/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/make-keele/</guid>
-      <description>&lt;p&gt;While I was working at Keele University, I set up a makerspace for the local community called 
-&lt;a href=&#34;https://www.keele.ac.uk/make/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make Keele&lt;/a&gt;. Its aim was to get people of all ages and backgrounds tinkering with technology, and give them the opportunity to meet, learn from each other and get creative. Through this project I met the team behind 
-&lt;a href=&#34;https://www.wavemaker.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wavemaker&lt;/a&gt;, digital engagement specialists, who became good friends and collaborators.&lt;/p&gt;
-&lt;p&gt;As part of Make Keele, I started a local branch of 
-&lt;a href=&#34;https://codeup.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Up&lt;/a&gt;, an organisation based in Manchester, which aims to provide free coding tuition to adults. While children learn coding at school, I wanted to give adults the same opportunity: to learn coding at no cost, in a friendly environment.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Mobile Health Technology</title>
       <link>/project/aparito/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/project/aparito/</guid>
       <description>&lt;p&gt;Aparito is a digital health company, that uses mobile phone applications and wearables to monitor patients outside the hospital setting.&lt;/p&gt;
 &lt;p&gt;The study I worked on involves testing the technology on a cohort of 40 South African children with refractory epilepsy. There is little data on quality of life for South African children with epilepsy and their families, and limited resources for management of epilepsy. So there is a need to gather more data and develop strategies for personalised care.
@@ -70,29 +84,15 @@ This study aims to investigate the feasibility and acceptability of wearable dev
     </item>
     
     <item>
-      <title>Soapbox Science Stoke-on-Trent</title>
-      <link>/project/soapbox-science-sot/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/soapbox-science-sot/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://soapboxscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soapbox Science&lt;/a&gt; involves female scientists standing on soapboxes in busy city streets, talking with passers-by about their research.&lt;/p&gt;
-&lt;p&gt;I think it is a brilliant outreach platform, for two reasons. First, instead of inviting people to a dedicated science event, it takes science to the streets, so it reaches people who might not consider attending a science event. And second, by focusing on female scientists, is raises the visibility of women in STEM, and hopefully encourages more girls to study science and engineering.&lt;/p&gt;
-&lt;p&gt;I set up the Stoke-on-Trent branch of Soapbox Science, and on Saturday July 6th 2019, we hosted our first ever Soapbox Science event in the centre of Stoke-on-Trent. It was a great opportunity to learn about scientific research done locally, straight from the scientists themselves.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tech for paralysis</title>
-      <link>/project/tech-for-paralysis/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/tech-for-paralysis/</guid>
-      <description>&lt;p&gt;When someone is paralysed, most of their muscles still work, as the injury has affected their spinal cord, not their muscles. But the damage to the neck means that muscles are not receiving electrical signals from the brain, and this is why they are not producing movement. If we could electrically stimulate the muscles, we could restore movement.&lt;/p&gt;
-&lt;p&gt;In this project, we use a combination of electrical stimulation to elicit forces in paralysed muscles, and mobile arm supports to compensate for insufficient muscle force where necessary.&lt;/p&gt;
-&lt;p&gt;My role is to develop computational models specific to an individual&amp;rsquo;s functional limitations, to produce patient-specific interventions.&lt;/p&gt;
-&lt;p&gt;I am also leading the public engagement work, in collaboration with 
-&lt;a href=&#34;https://www.newvictheatre.org.uk/education-and-community/borderlines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Vic Borderlines&lt;/a&gt;, the outreach department of the New Vic theatre in Newcastle-under-Lyme.&lt;/p&gt;
-&lt;p&gt;Our project follows the principles of Open Science. 
-&lt;a href=&#34;https://github.com/dblana/TechForParalysis/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find out more here.&lt;/a&gt;&lt;/p&gt;
+      <title>Make Keele</title>
+      <link>/project/make-keele/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/make-keele/</guid>
+      <description>&lt;p&gt;While I was working at Keele University, I set up a makerspace for the local community called 
+&lt;a href=&#34;https://www.keele.ac.uk/make/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make Keele&lt;/a&gt;. Its aim was to get people of all ages and backgrounds tinkering with technology, and give them the opportunity to meet, learn from each other and get creative. Through this project I met the team behind 
+&lt;a href=&#34;https://www.wavemaker.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wavemaker&lt;/a&gt;, digital engagement specialists, who became good friends and collaborators.&lt;/p&gt;
+&lt;p&gt;As part of Make Keele, I started a local branch of 
+&lt;a href=&#34;https://codeup.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Up&lt;/a&gt;, an organisation based in Manchester, which aims to provide free coding tuition to adults. While children learn coding at school, I wanted to give adults the same opportunity: to learn coding at no cost, in a friendly environment.&lt;/p&gt;
 </description>
     </item>
     
