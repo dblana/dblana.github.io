@@ -1,8 +1,8 @@
 ## About me
 
-I am the Deputy Director of the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/index.php), and the coordinator of the [MSc Health Data Science](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/).
+I am the Interim Director of the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/index.php), and the Programme Lead for the [MSc Health Data Science](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/). I also have an Honorary Data Analyst Contract with NHS Grampian.
 
-My research focus is developing modelling tools, with a particular interest in human movement. I am passionate about improving research culture and [promoting open and reproducible research practices](https://github.com/AbdnCHDS/guidebook). I am also an advocate for [diversity in health science and technology](https://www.onehealthtech.com/aberdeen).
+I develop dynamic models of complex systems, to address clinical needs at a range of levels, from an individual patient to a healthcare organisation. I am passionate about improving research culture and [promoting open and reproducible research practices](https://github.com/AbdnCHDS/guidebook). I am also an advocate for [diversity in health science and technology](https://www.onehealthtech.com/aberdeen).
 
 ## Links
 
