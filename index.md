@@ -1,8 +1,10 @@
 ## About me
 
-I am the Interim Director of the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/index.php), and the Programme Lead for the [MSc Health Data Science](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/). I also have an Honorary Data Analyst Contract with NHS Grampian.
+I am an engineer and data scientist, in the process of transitioning from academic research to using my skills to take action against the climate crisis. 
 
-I develop dynamic models of complex systems, to address clinical needs at a range of levels, from an individual patient to a healthcare organisation. I am passionate about improving research culture and [promoting open and reproducible research practices](https://github.com/AbdnCHDS/guidebook). I am also an advocate for [diversity in health science and technology](https://www.youtube.com/playlist?list=PLidyPVkhfk0jEqF_dTnGeBGdJGkCrVA_p).
+My research focus was dynamic modelling of complex systems. I initially worked on biomechanical models of the human arm, to help design prosthetic hands, and assistive technologies for people with paralysis. Since joining the [Aberdeen Centre for Health Data Science](https://github.com/AbdnCHDS) in 2019, I started applying my modelling methods to other healthcare problems. For example, I built an [epidemiological model](https://github.com/AbdnCHDS/grampian_covid19_modelling) to help NHS Grampian with their response to the COVID-19 pandemic. 
+
+I now aim to use my modelling and data science skills, as well as my experience in community organising, to help the prevention and adaptation efforts on the climate emergency.
 
 ## Links
 
